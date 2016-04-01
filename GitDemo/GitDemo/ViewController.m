@@ -16,6 +16,9 @@
 
 @property (nonatomic, strong) YNView *ynView;
 
+@property (nonatomic, strong) UIView *name1;
+
+
 @end
 
 @implementation ViewController
